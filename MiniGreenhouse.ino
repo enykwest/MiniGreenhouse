@@ -5,7 +5,7 @@
  * This source code is licensed under the GPL-style license 
  * found in the LICENSE file in the root directory of this source tree.
  *  
- *  It measures both the Temperature and Humidity and report it to both Blynk and Smartnest.
+ *  It measures both the Temperature and Humidity and sends reports to both Blynk and Smartnest.
  *  Smartnest is connected to the Smart Life App via IFTTT to turn on and off 
  *  my wireless heating pad via a smart outlet.
  *  Blynk is used to log and plot Temp and humidity vs time on my smart phone 
